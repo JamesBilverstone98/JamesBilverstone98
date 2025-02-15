@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JamesBilverstone98
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Angela Yu's Web Development Course on Udemy
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning BroCode's Python walkthrough along with CS50P
 - 💞️ I’m looking to collaborate on Anything!
 - 📫 How to reach me via LinkedIn
 - 😄 Pronouns: No preference
