@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @JamesBilverstone98
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning BroCode's Python walkthrough along with CS50P
-- 💞️ I’m looking to collaborate on Anything!
-- 📫 How to reach me via LinkedIn
-- 😄 Pronouns: No preference
-- ⚡ Fun fact: I am ambidextrous
+- 👀 I’m interested in Python!
+- 🌱 I am currently learning Python by attempting to complete Harvard's CS50P Course, and also Python MOOC 2025 Course!
 
 <!---
 JamesBilverstone98/JamesBilverstone98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
