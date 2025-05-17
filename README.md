@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JamesBilverstone98
-- 👀 I’m interested in Python, Data Analysis/Data Visualisation!
+- 👀 I’m interested in Python and Data Analysis/Data Visualisation!
 - 🌱 I am currently learning Python by attempting to complete Harvard's CS50P Course, and also Python MOOC 2025 Course!
 
 <!---
